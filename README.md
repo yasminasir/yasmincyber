@@ -4,7 +4,6 @@
 🔐 **Focus Areas:** Malware Analysis • Digital Forensics • Network Security  
 💻 Passionate about cybersecurity, investigation, and understanding how attacks work.
 
----
 
 ## 🔎 Featured Cybersecurity Projects
 
@@ -15,7 +14,6 @@ I monitored host behavior, registry changes, network traffic, and execution patt
 📄 *Full PDF report:*  
 [WannaCry Malware Analysis](./WannaCry-Report.pdf)
 
----
 
 ### 🔍 Palpatine Hard Drive Forensic Investigation  
 Complete forensic investigation of a suspect’s drive using FTK Imager and Forensic Explorer (FEX).  
@@ -23,13 +21,11 @@ This investigation included forensic imaging, hashing, file carving, keyword sea
 📄 *Full PDF report:*  
 [Palpatine Forensic Investigation](./Palpatine-Investigation.pdf)
 
----
 
 ## 💼 Resume  
 📄 *My Resume:*  
 [Yasmin Hassen Resume](./Yasmin-Hassen-Resume.pdf)
 
----
 
 ## 🛠 Skills
 
