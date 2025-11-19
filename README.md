@@ -1,6 +1,6 @@
-# ✨ Hi, I'm Yasmin Hassen — Cybersecurity & Digital Forensics Student  
+# ✨ Hi, I'm Yasmin Hassen a Cybersecurity & Digital Forensics Student  
 
-🎓 **Information Security & Intelligence @ Ferris State University**  
+🎓 **Information Security & Intelligence at Ferris State University**  
 🔐 **Focus Areas:** Malware Analysis • Digital Forensics • Network Security  
 💻 Passionate about cybersecurity, investigation, and understanding how attacks work.
 
